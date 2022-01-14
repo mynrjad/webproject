@@ -1,0 +1,115 @@
+body {
+    margin:0;
+    padding: 0;
+
+}
+h1 {
+    font-family: 'Trochut', cursive;
+    font-size: 66px;
+    position: absolute;
+}
+img.a {
+    position:absolute; 
+    width: 213px;
+    left: 146px;
+    top: 200px;
+}
+img.b {
+    position:absolute;
+    width: 213px;
+    left: 600px;
+    top: 200px;
+}
+img.c {
+    position:absolute;
+    width:213px;
+    left:1100px;
+    top:200px;
+}
+img.d {
+    position:absolute;
+    width:213px;
+    left: 372px;
+    top: 560px;
+}
+img.e {
+    position: absolute;
+    width:213px;
+    left: 850px;
+    top: 560px;
+}
+p.a {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    color: #6052FA;
+    position: absolute;
+    left: 157px;
+    top: 450px;
+}
+p.b {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 170px;
+    top: 500px;
+}
+p.c {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    color: #6052FA;
+    position: absolute;
+    left: 622px;
+    top: 450px  ;
+}
+p.d {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 638px;
+    top: 500px;
+}
+p.e {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    color: #6052FA;
+    position: absolute;
+    left: 1104px;
+    top: 450px;
+}
+p.f {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 1132px;
+    top: 500px;
+}
+p.g {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    color: #6052FA;
+    position: absolute;
+    left: 380px;
+    top: 812px;
+}
+p.h {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 390px;
+    top: 870px;
+}
+p.i {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-size: 25px;
+    color: #6052FA;
+    position: absolute;
+    left: 860px;
+    top: 812px;
+}
+p.j {
+    font-family: 'Scope One', serif;
+    font-size: 22px;
+    position: absolute;
+    left: 869px;
+    top: 870px;
+}
